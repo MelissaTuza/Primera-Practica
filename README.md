@@ -1,2 +1,2 @@
 # Primera-Practica
-Link del Colab: https://colab.research.google.com/drive/1070kW3MJ420EQg6tkOlCI7MXW78gEmd-?authuser=1#scrollTo=lNBH1237NHOo 
+Link del Colab: https://colab.research.google.com/drive/1070kW3MJ420EQg6tkOlCI7MXW78gEmd-?usp=sharing 
